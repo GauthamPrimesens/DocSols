@@ -1694,7 +1694,7 @@ CiAgICAgCg
                                         </paragraphStyle>
                                     </attributes>
                                 </fragment>
-                                <fragment content="Please tick a box below if you have any of the following conditions:">
+                                <fragment content="Please select a box below for any Clinical pathologies.">
                                     <attributes>
                                         <color key="NSBackgroundColor" red="0.11799999999999999" green="0.125" blue="0.157" alpha="0.0" colorSpace="custom" customColorSpace="calibratedRGB"/>
                                         <color key="NSColor" red="0.1333333333" green="0.21960784310000001" blue="0.35686274509999999" alpha="1" colorSpace="calibratedRGB"/>
@@ -1716,7 +1716,7 @@ CiAgICAgCg
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             <fontDescription key="fontDescription" name="HelveticaNeue-Light" family="Helvetica Neue" pointSize="12"/>
                             <inset key="titleEdgeInsets" minX="10" minY="0.0" maxX="0.0" maxY="0.0"/>
-                            <state key="normal" title="Diabetes" image="chckbox_D.png">
+                            <state key="normal" title="Diabetic / Ulcers" image="chckbox_D.png">
                                 <color key="titleColor" red="0.1333333333" green="0.21960784310000001" blue="0.35686274509999999" alpha="1" colorSpace="calibratedRGB"/>
                             </state>
                             <userDefinedRuntimeAttributes>
@@ -1731,7 +1731,7 @@ CiAgICAgCg
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             <fontDescription key="fontDescription" name="HelveticaNeue-Light" family="Helvetica Neue" pointSize="12"/>
                             <inset key="titleEdgeInsets" minX="10" minY="0.0" maxX="0.0" maxY="0.0"/>
-                            <state key="normal" title="Neuromotor Impairment" image="chckbox_D.png">
+                            <state key="normal" title="Hallux Limitus / Rigidus" image="chckbox_D.png">
                                 <color key="titleColor" red="0.1333333333" green="0.21960784310000001" blue="0.35686274509999999" alpha="1" colorSpace="calibratedRGB"/>
                             </state>
                             <userDefinedRuntimeAttributes>
@@ -1742,11 +1742,11 @@ CiAgICAgCg
                             </connections>
                         </button>
                         <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="sUC-Nj-Iq3">
-                            <rect key="frame" x="15" y="160" width="200" height="24"/>
+                            <rect key="frame" x="15" y="160" width="219" height="24"/>
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             <fontDescription key="fontDescription" name="HelveticaNeue-Light" family="Helvetica Neue" pointSize="12"/>
                             <inset key="titleEdgeInsets" minX="10" minY="0.0" maxX="0.0" maxY="0.0"/>
-                            <state key="normal" title="Peripheral Neuropathy" image="chckbox_D.png">
+                            <state key="normal" title="Posterior tibal tendon dysfunction" image="chckbox_D.png">
                                 <color key="titleColor" red="0.1333333333" green="0.21960784310000001" blue="0.35686274509999999" alpha="1" colorSpace="calibratedRGB"/>
                             </state>
                             <userDefinedRuntimeAttributes>
@@ -1761,7 +1761,7 @@ CiAgICAgCg
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             <fontDescription key="fontDescription" name="HelveticaNeue-Light" family="Helvetica Neue" pointSize="12"/>
                             <inset key="titleEdgeInsets" minX="10" minY="0.0" maxX="0.0" maxY="0.0"/>
-                            <state key="normal" title="Vascular Compromise" image="chckbox_D.png">
+                            <state key="normal" title="Peroneal tenosynovitis" image="chckbox_D.png">
                                 <color key="titleColor" red="0.1333333333" green="0.21960784310000001" blue="0.35686274509999999" alpha="1" colorSpace="calibratedRGB"/>
                             </state>
                             <userDefinedRuntimeAttributes>
@@ -1776,7 +1776,7 @@ CiAgICAgCg
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             <fontDescription key="fontDescription" name="HelveticaNeue-Light" family="Helvetica Neue" pointSize="12"/>
                             <inset key="titleEdgeInsets" minX="10" minY="0.0" maxX="0.0" maxY="0.0"/>
-                            <state key="normal" title="Systemic Arthritis" image="chckbox_D.png">
+                            <state key="normal" title="None of the above" image="chckbox_D.png">
                                 <color key="titleColor" red="0.1333333333" green="0.21960784310000001" blue="0.35686274509999999" alpha="1" colorSpace="calibratedRGB"/>
                             </state>
                             <userDefinedRuntimeAttributes>
@@ -1791,21 +1791,6 @@ CiAgICAgCg
                             <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
                             <color key="backgroundColor" red="0.1333333333" green="0.21960784310000001" blue="0.35686274509999999" alpha="1" colorSpace="calibratedRGB"/>
                         </view>
-                        <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="HXN-D0-Okv">
-                            <rect key="frame" x="15" y="270" width="200" height="24"/>
-                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="12"/>
-                            <inset key="titleEdgeInsets" minX="10" minY="0.0" maxX="0.0" maxY="0.0"/>
-                            <state key="normal" title="I have none of the above" image="chckbox_D.png">
-                                <color key="titleColor" red="0.1333333333" green="0.21960784310000001" blue="0.35686274509999999" alpha="1" colorSpace="calibratedRGB"/>
-                            </state>
-                            <userDefinedRuntimeAttributes>
-                                <userDefinedRuntimeAttribute type="string" keyPath="layer.name" value="special"/>
-                            </userDefinedRuntimeAttributes>
-                            <connections>
-                                <action selector="selectionPush:" destination="LeH-Og-eR2" eventType="touchUpInside" id="Eiv-xB-6p3"/>
-                            </connections>
-                        </button>
                         <button opaque="NO" tag="300" contentMode="scaleToFill" fixedFrame="YES" enabled="NO" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="fba-X9-2sK">
                             <rect key="frame" x="60" y="330" width="140" height="46"/>
                             <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES"/>

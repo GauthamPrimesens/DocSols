@@ -229,19 +229,22 @@ class UnregSteps_Screen: CustView, UIScrollViewDelegate
         
         if !isSpecial
         {
-            //popUp
-            let nextAct : ActionButton = CustView.OAbuttoncreate(txtlbl: "Next", completion: {() in
-                self.toplabel?.isHidden = false
-                self.iconImage?.isHidden = false
-                self.NextScreenTrigger()
-            })
-            
-            let cancelAct : ActionButton = CustView.OAbuttoncreate(txtlbl: "Cancel", completion: {() in
-                
-            })
-            
-            
-            Constants.MyNavi.AlertCover(title: "We're sorry", withColor: .init(netHex:0xff6a2b), themessage: "Unfortunately, due to one of the conditions you just mentioned, we can not allow you to purchase an insole through this application.\n\nYou may still proceed with the scan and we will be in touch with you to provide you with further assistance.", withColor: .init(netHex:0x22385B), with: [cancelAct, nextAct])
+            self.toplabel?.isHidden = false
+            self.iconImage?.isHidden = false
+            self.NextScreenTrigger()
+//            //popUp
+//            let nextAct : ActionButton = CustView.OAbuttoncreate(txtlbl: "Next", completion: {() in
+//                self.toplabel?.isHidden = false
+//                self.iconImage?.isHidden = false
+//                self.NextScreenTrigger()
+//            })
+//
+//            let cancelAct : ActionButton = CustView.OAbuttoncreate(txtlbl: "Cancel", completion: {() in
+//
+//            })
+//
+//
+//            Constants.MyNavi.AlertCover(title: "We're sorry", withColor: .init(netHex:0xff6a2b), themessage: "Unfortunately, due to one of the conditions you just mentioned, we can not allow you to purchase an insole through this application.\n\nYou may still proceed with the scan and we will be in touch with you to provide you with further assistance.", withColor: .init(netHex:0x22385B), with: [cancelAct, nextAct])
         }
         else
         {
