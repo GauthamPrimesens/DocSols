@@ -125,7 +125,7 @@
                     </connections>
                 </scrollView>
             </objects>
-            <point key="canvasLocation" x="734.78260869565224" y="209.59821428571428"/>
+            <point key="canvasLocation" x="-641" y="207"/>
         </scene>
         <!--Loading View-->
         <scene sceneID="tne-QT-ifu">
@@ -145,7 +145,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1427.536231884058" y="209.59821428571428"/>
+            <point key="canvasLocation" x="173" y="208"/>
         </scene>
         <!--Tutorial Screen-->
         <scene sceneID="wMS-to-wvn">
@@ -235,7 +235,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Bda-5N-QHl" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2043.4782608695655" y="209.59821428571428"/>
+            <point key="canvasLocation" x="975" y="208"/>
         </scene>
         <!--Orientation Screen Port-->
         <scene sceneID="THf-zU-haK">
@@ -285,7 +285,7 @@
                 </view>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="1bi-ll-zAS" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="6375.36231884058" y="17.410714285714285"/>
+            <point key="canvasLocation" x="5863" y="208"/>
         </scene>
         <!--Sound Tutorial Screen-->
         <scene sceneID="5N9-nh-SwU">
@@ -354,7 +354,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="9J0-8e-cpP" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="4591.304347826087" y="395.08928571428572"/>
+            <point key="canvasLocation" x="4256" y="206"/>
         </scene>
         <!--Gallery Screen-->
         <scene sceneID="agC-eq-geI">
@@ -441,7 +441,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="4UO-u8-1ms" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="860.86956521739137" y="1191.9642857142856"/>
+            <point key="canvasLocation" x="2235" y="1896"/>
         </scene>
         <!--Record Screen-->
         <scene sceneID="eK6-xQ-7Gv">
@@ -551,7 +551,7 @@
                     <color key="backgroundColor" red="0.090196078430000007" green="0.25490196079999999" blue="0.39607843139999999" alpha="1" colorSpace="calibratedRGB"/>
                 </view>
             </objects>
-            <point key="canvasLocation" x="5126.0869565217399" y="395.08928571428572"/>
+            <point key="canvasLocation" x="5044" y="208"/>
         </scene>
         <!--Redo Record Screen-->
         <scene sceneID="9aY-9E-LEQ">
@@ -650,7 +650,7 @@
                     <color key="backgroundColor" red="0.090196078430000007" green="0.25490196079999999" blue="0.39607843139999999" alpha="1" colorSpace="calibratedRGB"/>
                 </view>
             </objects>
-            <point key="canvasLocation" x="-620.28985507246387" y="1153.125"/>
+            <point key="canvasLocation" x="771" y="1894"/>
         </scene>
         <!--Type Screen-->
         <scene sceneID="ZbZ-Gt-Yaa">
@@ -865,7 +865,7 @@ CiAgICAgCg
                     <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                 </view>
             </objects>
-            <point key="canvasLocation" x="1427.536231884058" y="1153.125"/>
+            <point key="canvasLocation" x="2987" y="1894"/>
         </scene>
         <!--Color Screen-->
         <scene sceneID="qWq-oz-dnW">
@@ -1074,7 +1074,7 @@ CiAgICAgCg
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Det-Kz-iGj" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2020.289855072464" y="1153.125"/>
+            <point key="canvasLocation" x="3718" y="1896"/>
         </scene>
         <!--Checkout Screen-->
         <scene sceneID="U34-lP-vfk">
@@ -1415,7 +1415,7 @@ CiAgICAgCg
                     <color key="backgroundColor" red="0.89803921568627454" green="0.89803921568627454" blue="0.89803921568627454" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                 </view>
             </objects>
-            <point key="canvasLocation" x="2636.231884057971" y="1153.125"/>
+            <point key="canvasLocation" x="2694" y="950"/>
         </scene>
         <!--Submit Scan-->
         <scene sceneID="drE-gq-YLA">
@@ -1441,7 +1441,7 @@ CiAgICAgCg
                                         <color key="textColor" red="0.1333333333" green="0.21960784310000001" blue="0.35686274509999999" alpha="1" colorSpace="calibratedRGB"/>
                                         <nil key="highlightedColor"/>
                                     </label>
-                                    <textField opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Your Full Name" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="WW8-Bb-Sda">
+                                    <textField opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Patient name" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="WW8-Bb-Sda">
                                         <rect key="frame" x="25" y="60" width="270" height="30"/>
                                         <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
                                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
@@ -1451,7 +1451,7 @@ CiAgICAgCg
                                             <outlet property="delegate" destination="N0k-As-ZhD" id="pjv-qv-Sus"/>
                                         </connections>
                                     </textField>
-                                    <textField opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Email address" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="kj5-sJ-naJ">
+                                    <textField opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Patients email address" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="kj5-sJ-naJ">
                                         <rect key="frame" x="25" y="100" width="270" height="30"/>
                                         <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
                                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
@@ -1461,7 +1461,7 @@ CiAgICAgCg
                                             <outlet property="delegate" destination="N0k-As-ZhD" id="wFc-fD-os8"/>
                                         </connections>
                                     </textField>
-                                    <textField opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Phone number" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="Z3J-pN-I8D">
+                                    <textField opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Clinic phone number" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="Z3J-pN-I8D">
                                         <rect key="frame" x="25" y="140" width="270" height="30"/>
                                         <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
                                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
@@ -1469,6 +1469,16 @@ CiAgICAgCg
                                         <textInputTraits key="textInputTraits" keyboardType="numbersAndPunctuation"/>
                                         <connections>
                                             <outlet property="delegate" destination="N0k-As-ZhD" id="2gc-P6-wHI"/>
+                                        </connections>
+                                    </textField>
+                                    <textField opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Provider number" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="JwR-9o-H0Q">
+                                        <rect key="frame" x="25" y="178" width="270" height="30"/>
+                                        <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
+                                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                        <textInputTraits key="textInputTraits" keyboardType="numbersAndPunctuation"/>
+                                        <connections>
+                                            <outlet property="delegate" destination="N0k-As-ZhD" id="dh4-kv-1vp"/>
                                         </connections>
                                     </textField>
                                 </subviews>
@@ -1514,7 +1524,7 @@ CiAgICAgCg
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="uE7-3T-Vdm" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="3260.8695652173915" y="1153.125"/>
+            <point key="canvasLocation" x="5164" y="1896"/>
         </scene>
         <!--Unreg Steps Screen-->
         <scene sceneID="yPa-lS-a5I">
@@ -1818,7 +1828,7 @@ CiAgICAgCg
                 </view>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="4BI-vG-dzj" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2760" y="209"/>
+            <point key="canvasLocation" x="1785" y="209"/>
         </scene>
         <!--Pressure Screen-->
         <scene sceneID="HvW-aD-Jl2">
@@ -2356,7 +2366,7 @@ CiAgICAgCg
                     <color key="backgroundColor" white="1" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                 </view>
             </objects>
-            <point key="canvasLocation" x="3634.7826086956525" y="209.59821428571428"/>
+            <point key="canvasLocation" x="3452" y="208"/>
         </scene>
         <!--Profile Screen-->
         <scene sceneID="D5a-cU-BIV">
@@ -2554,7 +2564,7 @@ CiAgICAgCg
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Aio-DI-Ecs" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="6126.0869565217399" y="911.38392857142856"/>
+            <point key="canvasLocation" x="6664" y="208"/>
         </scene>
         <!--Checkout Success-->
         <scene sceneID="eCT-ZH-KJa">
@@ -2731,7 +2741,7 @@ ICAgICAgICAgCg
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="5yh-Bw-kLO" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2636.231884057971" y="1595.0892857142856"/>
+            <point key="canvasLocation" x="4442" y="1897"/>
         </scene>
         <!--Submit Success-->
         <scene sceneID="7QH-S5-7xl">
@@ -2851,7 +2861,7 @@ Cg
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="lIQ-O9-ROW" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="3260.8695652173915" y="1595.0892857142856"/>
+            <point key="canvasLocation" x="6630" y="1896"/>
         </scene>
         <!--Unpayed Screen-->
         <scene sceneID="pvD-cj-0l1">
@@ -3024,7 +3034,7 @@ CiAgICAgCg
                     <color key="backgroundColor" red="0.8980392157" green="0.8980392157" blue="0.8980392157" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                 </view>
             </objects>
-            <point key="canvasLocation" x="3823.188405797102" y="1167.1875"/>
+            <point key="canvasLocation" x="5901" y="1896"/>
         </scene>
         <!--Review Sub Photo-->
         <scene sceneID="fLq-Xu-wwe">
@@ -3119,7 +3129,7 @@ CiAgICAgCg
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="wds-tK-hE2" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="334.78260869565219" y="1191.9642857142856"/>
+            <point key="canvasLocation" x="1498" y="1896"/>
         </scene>
         <!--Terms Screen-->
         <scene sceneID="nmt-di-WpJ">
@@ -3191,7 +3201,7 @@ CiAgICAgCg
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="zSk-JP-DgM" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-1546.376811594203" y="1516.0714285714284"/>
+            <point key="canvasLocation" x="68" y="1895"/>
         </scene>
         <!--Country Picker Screen-->
         <scene sceneID="xDD-kN-ePH">
@@ -3252,7 +3262,7 @@ CiAgICAgCg
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="mgh-oH-jsp" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-2333.3333333333335" y="1516.0714285714284"/>
+            <point key="canvasLocation" x="-641" y="1896"/>
         </scene>
         <!--Submit SuccessV2-->
         <scene sceneID="iLH-RO-Y8g">
@@ -3287,50 +3297,7 @@ CiAgICAgCg
                                 <rect key="frame" x="25" y="100" width="270" height="205"/>
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
                                 <attributedString key="attributedText">
-                                    <fragment content="We will be in touch very shortly">
-                                        <attributes>
-                                            <color key="NSColor" red="0.1333333333" green="0.21960784310000001" blue="0.35686274509999999" alpha="1" colorSpace="calibratedRGB"/>
-                                            <font key="NSFont" size="14" name="HelveticaNeue-Bold"/>
-                                            <real key="NSKern" value="0.0"/>
-                                            <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" minimumLineHeight="11" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
-                                                <tabStops/>
-                                            </paragraphStyle>
-                                            <color key="NSStrokeColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                            <real key="NSStrokeWidth" value="0.0"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment>
-                                        <string key="content">
-
-Since you mentioned you live with one of the conditions which may or may not be affected by an insole, we can not allow you to continue purchasing through the application.
-
-Instead we will be in touch with you to follow and see if there is any way we can help. We have saved your scan results to help with this.
-
-You can see your scan results saved in your </string>
-                                        <attributes>
-                                            <color key="NSColor" red="0.1333333333" green="0.21960784310000001" blue="0.35686274509999999" alpha="1" colorSpace="calibratedRGB"/>
-                                            <font key="NSFont" size="13" name="HelveticaNeue-Light"/>
-                                            <real key="NSKern" value="0.0"/>
-                                            <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" minimumLineHeight="11" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
-                                                <tabStops/>
-                                            </paragraphStyle>
-                                            <color key="NSStrokeColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                            <real key="NSStrokeWidth" value="0.0"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content="profile">
-                                        <attributes>
-                                            <color key="NSColor" red="1" green="0.41568627450000001" blue="0.16862745100000001" alpha="1" colorSpace="calibratedRGB"/>
-                                            <font key="NSFont" size="13" name="HelveticaNeue-Bold"/>
-                                            <real key="NSKern" value="0.0"/>
-                                            <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" minimumLineHeight="11" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
-                                                <tabStops/>
-                                            </paragraphStyle>
-                                            <color key="NSStrokeColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                            <real key="NSStrokeWidth" value="0.0"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content=".">
+                                    <fragment content="Scans and data have been uploaded to the Set portal. Logon to analyse the results.">
                                         <attributes>
                                             <color key="NSColor" red="0.1333333333" green="0.21960784310000001" blue="0.35686274509999999" alpha="1" colorSpace="calibratedRGB"/>
                                             <font key="NSFont" size="13" name="HelveticaNeue-Light"/>
@@ -3378,7 +3345,7 @@ You can see your scan results saved in your </string>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="2sg-c8-6R6" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="3971.0144927536235" y="1605.1339285714284"/>
+            <point key="canvasLocation" x="7363" y="1896"/>
         </scene>
     </scenes>
     <resources>
